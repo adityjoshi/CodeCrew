@@ -130,4 +130,19 @@
   
 </details>
 
+<details>
+	<summary> <strong> Dev </strong> </summary>	
+
+---
+##### Functions:
+
+1. [`Web Development`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/Web%20Development.md):Resources for both backend and frontend
+2. [`Android`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/android.md): Resources for android 
+3. [`Cyber`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/cyber.md):Resources for cyber.
+
 </details>
+
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/adityjoshi/CodeCrew/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=adityjoshi/CodeCrew"/>
+</a>
