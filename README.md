@@ -10,7 +10,7 @@
 ---
 ##### Functions:
 
-1. [`FirstYearRoadmap`](https://github.com/adityjoshi/CodeCrew/blob/main/FirstYearRoadmap.md):It contains all the topics thst you should focus in your first year.
+1. <a href="https://github.com/adityjoshi/CodeCrew/blob/main/FirstYearRoadmap.md">FirstYearRoadmap</a>:It contains all the topics thst you should focus in your first year.
 ---
 </details>
 <hr>
