@@ -2,7 +2,7 @@
 ![IMG_2874](https://github.com/adityjoshi/CodeCrew/assets/111140014/8b32ed43-9659-42bf-a7db-e0075b40deb4)
 ### Introducing "CodeCrew" - a vibrant community created by and for coding enthusiasts like you!
 
-# Packages:
+# Resources:
 
 <details>
 	<summary> <strong> Roadmap </strong> </summary>	
