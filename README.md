@@ -26,6 +26,16 @@
 ---
 </details><details>
 <summary> <strong> Teachers </strong> </summary>
+	<style>
+    summary::-webkit-details-marker {
+      display: none;
+    }
+    
+    summary:after {
+      content: "\25BC"; /* Unicode character for a downward-pointing triangle */
+      float: right;
+    }
+  </style>
 <details>
 <summary>Cse Core</summary>
 
@@ -110,7 +120,7 @@
 </details>
 </details>
 <details>
-	<summary> <strong> Roadmap </strong> </summary>	
+	<summary> <strong> Development </strong> </summary>	
 
 ---
 ##### Functions:
