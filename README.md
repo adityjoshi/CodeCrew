@@ -12,7 +12,9 @@
 
 1. [`FirstYearRoadmap`](https://github.com/adityjoshi/CodeCrew/blob/main/FirstYearRoadmap.md):It contains all the topics thst you should focus in your first year.
 ---
-</details><details>
+</details>
+<hr>
+<details>
 <summary> <strong> Coding Playlist </strong> </summary>	
 
 ---
@@ -24,18 +26,10 @@
 3. [`JAVA`](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q):Code With Harry 
 
 ---
-</details><details>
+</details>
+<hr>
+<details>
 <summary> <strong> Teachers </strong> </summary>
-	<style>
-    summary::-webkit-details-marker {
-      display: none;
-    }
-    
-    summary:after {
-      content: "\25BC"; /* Unicode character for a downward-pointing triangle */
-      float: right;
-    }
-  </style>
 <details>
 <summary>Cse Core</summary>
 
@@ -55,6 +49,7 @@
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
   </details>
+  <hr>
   <details>
 <summary>Cse AI & ML </summary>
 
@@ -73,9 +68,8 @@
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
-    
-  
-</details>
+    </details>
+    <hr>
 <details>
 <summary>Cse Cyber</summary>
 
@@ -94,12 +88,10 @@
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
-    
-  
-</details>
+    </details>
+    <hr>
 <details>
 <summary>Cse Education</summary>
-
 - Maths
     - Dhondu Harish Babu
     - Rabia
@@ -119,6 +111,7 @@
   
 </details>
 </details>
+<hr>
 <details>
 	<summary> <strong> Development </strong> </summary>	
 
