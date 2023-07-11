@@ -10,9 +10,11 @@
 ---
 ##### Functions:
 
-1. [`FirstYearRoadmap`](https://github.com/adityjoshi/CodeCrew/blob/main/FirstYearRoadmap.md):It contains all the topics thst you should focus in your first year.
+1. <a href="https://github.com/adityjoshi/CodeCrew/blob/main/FirstYearRoadmap.md">FirstYearRoadmap</a>:It contains all the topics thst you should focus in your first year.
 ---
-</details><details>
+</details>
+<hr>
+<details>
 <summary> <strong> Coding Playlist </strong> </summary>	
 
 ---
@@ -24,8 +26,10 @@
 3. [`JAVA`](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q):Code With Harry 
 
 ---
-</details><details>
-<summary> <strong> Teachers </strong> </summary>	
+</details>
+<hr>
+<details>
+<summary> <strong> Teachers </strong> </summary>
 <details>
 <summary>Cse Core</summary>
 
@@ -45,6 +49,7 @@
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
   </details>
+  <hr>
   <details>
 <summary>Cse AI & ML </summary>
 
@@ -63,9 +68,8 @@
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
-    
-  
-</details>
+    </details>
+    <hr>
 <details>
 <summary>Cse Cyber</summary>
 
@@ -84,12 +88,10 @@
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
-    
-  
-</details>
+    </details>
+    <hr>
 <details>
 <summary>Cse Education</summary>
-
 - Maths
     - Dhondu Harish Babu
     - Rabia
@@ -108,55 +110,10 @@
     
   
 </details>
-<details>
-<summary>Cse Gaming</summary>
-
-- Maths
-    - Dhondu Harish Babu
-    - Rabia
-- Fundamentals Of AI & ML
-    - Praveen Lalwani 
-    - Pooja
-- English
-  - Ravi Bhatt
-  - Vinod Bhatt
-  - Anita Yadav
-- Physics
-  - Pradeep Kumar Kashyap
-  - Ashok Kumar Barar
-- Technological Entrepreneurship 
-  - Bhavna Bhagerwal
-    
-  
 </details>
-<details>
-<summary>ECE AI and Cybernetics</summary>
-
-- Maths
-    - Yogesh Shukla
-    - Rabia
-- Fundamentals Of AI & ML
-    - Praveen Lalwani 
-    - Shilpa Suman
-- English
-  - Ravi Bhatt
-  - Vinod Bhatt
-  - Anita Yadav
-- Physics
-  - Avirup Das
-  - Shweta Mukherjee
-- Electric Circuits and Systems
-  - Abhay Vidyarthi 
-  - Amit Kumar Singh
-- Introduction to Python
-  - AB Rouf 
-    
-  
-</details> 
-
 
 <details>
-	<summary> <strong> Dev </strong> </summary>	
+	<summary> <strong> Development </strong> </summary>	
 
 ---
 ##### Functions:
@@ -164,10 +121,10 @@
 1. [`Web Development`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/Web%20Development.md):Resources for both backend and frontend
 2. [`Android`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/android.md): Resources for android 
 3. [`Cyber`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/cyber.md):Resources for cyber.
-
+---
 </details>
 
-## Thanks to all the contributors ❤️
+### Thanks to all the contributors 
 <a href="https://github.com/adityjoshi/CodeCrew/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adityjoshi/CodeCrew" />
 </a>
