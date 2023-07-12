@@ -111,7 +111,7 @@
   
 </details>
 </details>
-
+<hr>
 <details>
 	<summary> <strong> Development </strong> </summary>	
 
