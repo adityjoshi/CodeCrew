@@ -99,8 +99,9 @@
   - Bhavna Bhagerwal
     </details>
     <hr>
-<details>
-<summary>Cse Education</summary>
+  <details>
+<summary>Cse Education </summary>
+
 - Maths
     - Dhondu Harish Babu
     - Rabia
@@ -116,9 +117,7 @@
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
-    
-  
-</details>
+    </details>
 </details>
 <hr>
 <details>
