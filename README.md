@@ -133,7 +133,3 @@
 ---
 </details>
 
-### Thanks to all the contributors 
-<a href="https://github.com/adityjoshi/CodeCrew/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=adityjoshi/CodeCrew" />
-</a>
