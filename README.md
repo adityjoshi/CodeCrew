@@ -131,7 +131,12 @@
 2. [`Android`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/android.md): Resources for android 
 3. [`Cyber`](https://github.com/adityjoshi/CodeCrew/blob/main/Dev/cyber.md):Resources for cyber.
 ---
+
 </details>
+<hr>
+
+# Thanks to all the contributors 🫶🏻
+
 <a href = "https://github.com/adityjoshi/codecreww/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=adityjoshi/codecrew"/>
 </a>
