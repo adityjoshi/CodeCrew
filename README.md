@@ -167,6 +167,15 @@
 
 </details>
 <hr>
+<details>
+	<summary> <strong> Study Materials </strong> </summary>	
+
+---
+##### Functions:
+
+
+---
+</details>
 
 # Thanks to all the contributors 🫶🏻
 
