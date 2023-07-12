@@ -42,7 +42,7 @@
 <details>
 <summary>Cse Core</summary>
 
-- Maths
+- Calculus And Laplace Transforms
     - Dhondu Harish Babu
     - Rabia
 - Fundamentals Of AI & ML
@@ -62,7 +62,7 @@
   <details>
 <summary>Cse AI & ML </summary>
 
-- Maths
+- Calculus And Laplace Transforms
     - Dhondu Harish Babu
     - Rabia
 - Fundamentals Of AI & ML
@@ -75,48 +75,82 @@
 - Physics
   - Pradeep Kumar Kashyap
   - Ashok Kumar Barar
-- Technological Entrepreneurship 
-  - Bhavna Bhagerwal
+- Computational Chemistry 
+  - Manoj Acharya
+  - Arindam 
     </details>
     <hr>
 <details>
 <summary>Cse Cyber</summary>
 
-- Maths
+- Calculus And Laplace Transforms
     - Dhondu Harish Babu
     - Rabia
-- Fundamentals Of AI & ML
+- Introduction to problem solving and programming
     - Praveen Lalwani 
     - Pooja
 - English
   - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
-- Physics
-  - Pradeep Kumar Kashyap
-  - Ashok Kumar Barar
-- Technological Entrepreneurship 
-  - Bhavna Bhagerwal
+- Forensic Chemistry and Applications 
+- Electric Circuits and Systems
     </details>
     <hr>
   <details>
-<summary>Cse Education </summary>
+<summary>Cse Education</summary>
 
-- Maths
+- Calculus And Laplace Transforms
     - Dhondu Harish Babu
     - Rabia
-- Fundamentals Of AI & ML
+- Introduction to problem solving and programming
     - Praveen Lalwani 
     - Pooja
 - English
   - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
-- Physics
-  - Pradeep Kumar Kashyap
-  - Ashok Kumar Barar
-- Technological Entrepreneurship 
-  - Bhavna Bhagerwal
+- Forensic Chemistry and Applications
+- Electric Circuits and Systems
+
+    </details>
+    <hr>
+    <details>
+<summary>Cse Gaming</summary>
+
+- Calculus And Laplace Transforms
+    - Dhondu Harish Babu
+    - Rabia
+- Introduction to problem solving and programming
+    - Praveen Lalwani 
+    - Pooja
+- English
+  - Ravi Bhatt
+  - Vinod Bhatt
+  - Anita Yadav
+- Forensic Chemistry and Applications
+ 
+- Electric Circuits and Systems
+
+    </details>
+    <hr>
+     <details>
+<summary>Cse Cloud</summary>
+
+- Calculus And Laplace Transforms
+    - Dhondu Harish Babu
+    - Rabia
+- Introduction to problem solving and programming
+    - Praveen Lalwani 
+    - Pooja
+- English
+  - Ravi Bhatt
+  - Vinod Bhatt
+  - Anita Yadav
+- Introduction to computational chemistry 
+ 
+- Digital logic and design 
+
     </details>
 </details>
 <hr>
