@@ -152,6 +152,29 @@
 - Digital logic and design 
 
     </details>
+    <hr>
+    <details>
+<summary>ECE AI and Cybernetics</summary>
+
+- Maths
+    - Yogesh Shukla
+    - Rabia
+- Fundamentals Of AI & ML
+    - Praveen Lalwani 
+    - Shilpa Suman
+- English
+  - Ravi Bhatt
+  - Vinod Bhatt
+  - Anita Yadav
+- Physics
+  - Avirup Das
+  - Shweta Mukherjee
+- Electric Circuits and Systems
+  - Abhay Vidyarthi 
+  - Amit Kumar Singh
+- Introduction to Python
+  - AB Rouf 
+    </details>
 </details>
 <hr>
 <details>
