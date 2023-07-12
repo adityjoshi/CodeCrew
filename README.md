@@ -152,6 +152,7 @@
 - Digital logic and design 
 
     </details>
+    <hr>
     <details>
 <summary>ECE AI and Cybernetics</summary>
 
@@ -173,8 +174,6 @@
   - Amit Kumar Singh
 - Introduction to Python
   - AB Rouf 
-
-
     </details>
 </details>
 <hr>
