@@ -5,7 +5,7 @@
 # Resources:
 
 <details>
-	<summary> <strong> Roadmap </strong> </summary>	
+	<summary> <strong> Roadmap 📍 </strong> </summary>	
 
 ---
 ##### Functions:
@@ -47,7 +47,7 @@
 </details>
 <hr>
 <details>
-<summary> <strong> Teachers </strong> </summary>
+<summary> <strong> Teachers 🏫</strong> </summary>
 <details>
 <summary>Cse Core</summary>
 
@@ -187,7 +187,7 @@
 </details>
 <hr>
 <details>
-	<summary> <strong> Development </strong> </summary>	
+	<summary> <strong> Development 👨🏼‍💻 </strong> </summary>	
 
 ---
 ##### Functions:
