@@ -15,7 +15,10 @@
 </details>
 <hr>
 <details>
-<summary> <strong> Coding Playlist </strong> </summary>	
+<summary> <strong> Coding 💻 </strong> </summary>	
+
+<details>
+<summary> <strong> BEST CODING CHANNELS </strong> </summary>	
 
 ---
 
@@ -35,6 +38,12 @@
 3. [`C++`](https://www.youtube.com/@takeUforward):Striver(🚀) 
 
 ---
+</details>
+<hr>
+<details>
+<summary> <strong> CODING PROBLEMS TOPIC-WISE</strong> </summary>	
+1. <a href="https://github.com/adityjoshi/CodeCrew/tree/main/Problems">Problems</a>:The folder is filled with numerous problems that you should definitely attempt.
+</details>
 </details>
 <hr>
 <details>
