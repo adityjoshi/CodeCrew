@@ -231,7 +231,7 @@
 </details>
 <hr>
 <details>
-	<summary> <strong> Study Materials </strong> </summary>	
+	<summary> <strong> Study Materials 📚 </strong> </summary>	
 
 ---
 ##### Functions:
