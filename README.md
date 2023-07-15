@@ -63,6 +63,7 @@
   - Anita Yadav
 - Physics
   - Pradeep Kumar Kashyap
+  - Shweta Mukherjee
   - Ashok Kumar Barar
 - Technological Entrepreneurship 
   - Bhavna Bhagerwal
@@ -160,6 +161,32 @@
  
 - Digital logic and design 
 
+    </details>
+    <hr>
+     <details>
+<summary>ECE</summary>
+
+- Maths
+    - Yogesh Shukla
+    - Rabia
+- Fundamentals Of AI & ML
+    - Praveen Lalwani 
+    - Shilpa Suman
+- English
+  - Ravi Bhatt
+  - Vinod Bhatt
+  - Anita Yadav
+- Physics 
+  - Avirup Das
+  - Shweta Mukherjee
+  - Pradeep Kumar Kashyap 
+- Electric Circuits and Systems
+  - Govind Prashad 
+  - Anirban Bhowmick
+  - Sadanand Singh
+- Introduction to Python
+  - AB Rouf
+  - Pooja 
     </details>
     <hr>
     <details>
