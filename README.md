@@ -131,16 +131,20 @@
 - Calculus And Laplace Transforms
     - Dhondu Harish Babu
     - Rabia
+    - Shahid Abdullah
 - Introduction to problem solving and programming
     - Praveen Lalwani 
     - Pooja
+    - Ramesh Saha
 - English
   - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
+  - Soumya Shankar
 - Forensic Chemistry and Applications
  
 - Electric Circuits and Systems
+    - Sharmila Joseph 
 
     </details>
     <hr>
