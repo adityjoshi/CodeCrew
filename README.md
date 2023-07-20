@@ -58,7 +58,6 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Physics
@@ -79,7 +78,6 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Physics
@@ -100,7 +98,6 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Forensic Chemistry and Applications 
@@ -117,7 +114,6 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Forensic Chemistry and Applications
@@ -137,7 +133,6 @@
     - Pooja
     - Ramesh Saha
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
   - Soumya Shankar
@@ -158,7 +153,6 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Introduction to computational chemistry 
@@ -177,7 +171,6 @@
     - Praveen Lalwani 
     - Shilpa Suman
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Physics 
@@ -203,7 +196,6 @@
     - Praveen Lalwani 
     - Shilpa Suman
 - English
-  - Ravi Bhatt
   - Vinod Bhatt
   - Anita Yadav
 - Physics
