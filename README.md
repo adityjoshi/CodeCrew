@@ -55,17 +55,15 @@
     - Dhondu Harish Babu
     - Rabia
 - Fundamentals Of AI & ML
-    - Praveen Lalwani 
-    - Pooja
+    - Javed Khan sheikh 
+    - Nikhil pateria 
 - English
-  - Vinod Bhatt
-  - Anita Yadav
-- Physics
-  - Pradeep Kumar Kashyap
+  - Somya sankar 
+  - DevBrat gupta 
+- Physics 
   - Shweta Mukherjee
-  - Ashok Kumar Barar
-- Technological Entrepreneurship 
-  - Bhavna Bhagerwal
+  - Divya Haridas
+  - Avirup das 
   </details>
   <hr>
   <details>
@@ -75,14 +73,15 @@
     - Dhondu Harish Babu
     - Rabia
 - Fundamentals Of AI & ML
-    - Praveen Lalwani 
-    - Pooja
+    - Javed Khan sheikh 
+    - Nikhil pateria 
 - English
-  - Vinod Bhatt
-  - Anita Yadav
+  - Somya sankar 
+  - DevBrat gupta 
 - Physics
-  - Pradeep Kumar Kashyap
-  - Ashok Kumar Barar
+  - Shweta Mukherjee
+  - Divya Haridas
+  - Avirup das 
 - Computational Chemistry 
   - Manoj Acharya
   - Arindam 
@@ -95,11 +94,11 @@
     - Dhondu Harish Babu
     - Rabia
 - Introduction to problem solving and programming
-    - Praveen Lalwani 
+    - Divya
     - Pooja
 - English
-  - Vinod Bhatt
-  - Anita Yadav
+  - Somya sankar 
+  - DevBrat gupta 
 - Forensic Chemistry and Applications 
 - Electric Circuits and Systems
     </details>
@@ -114,8 +113,8 @@
     - Praveen Lalwani 
     - Pooja
 - English
-  - Vinod Bhatt
-  - Anita Yadav
+  - Somya sankar 
+  - DevBrat gupta
 - Forensic Chemistry and Applications
 - Electric Circuits and Systems
 
@@ -129,13 +128,13 @@
     - Rabia
     - Shahid Abdullah
 - Introduction to problem solving and programming
-    - Praveen Lalwani 
+    - Divya
     - Pooja
     - Ramesh Saha
 - English
-  - Vinod Bhatt
-  - Anita Yadav
-  - Soumya Shankar
+  - Somya sankar 
+  - DevBrat gupta
+ 
 - Forensic Chemistry and Applications
  
 - Electric Circuits and Systems
@@ -150,13 +149,17 @@
     - Dhondu Harish Babu
     - Rabia
 - Introduction to problem solving and programming
-    - Praveen Lalwani 
+    - Divya
     - Pooja
+    - Ramesh Saha
 - English
-  - Vinod Bhatt
-  - Anita Yadav
-- Introduction to computational chemistry 
+  - Somya sankar 
+  - DevBrat gupta
  
+- Introduction to computational chemistry 
+  - Arindam Ghosh 
+  - summit mittal 
+  - Manoj acharya 
 - Digital logic and design 
 
     </details>
